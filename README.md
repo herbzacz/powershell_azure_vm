@@ -34,3 +34,8 @@ Stop-AzureRmVM [-ResourceGroupName] <string> [-Name] <string>  [<CommonParameter
 #remove your VM
 Remove-AzureRmVM [-ResourceGroupName] <string> [-Name] <string>  [<CommonParameters>]
 ```
+Official Microsoft documentation:  
+https://docs.microsoft.com/en-us/powershell/azure/get-started-azureps?view=azurermps-5.0.0
+
+PowerShell scripts from Microsoft for fully configured VM:  
+https://docs.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-linux-powershell-sample-create-vm?toc=%2fpowershell%2fmodule%2ftoc.json
