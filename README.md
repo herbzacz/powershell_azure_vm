@@ -1,5 +1,5 @@
-# powershell_azure_vm
-Set up an Azure VM via PowerShell
+# Set up an Azure VM via PowerShell
+
 
 ```
 # sudo command for PowerShell (makes it a lot easier ;) )
