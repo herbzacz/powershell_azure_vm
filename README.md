@@ -16,7 +16,9 @@ Get-Command *azure*
 
 #Log in to your Azure Account (it will open up a Login window)
 Add-AzureRmAccount 
-
+```
+![Loginwindow](https://fhwnspeicher.blob.core.windows.net/eins/PS_azure_login.png)  
+```
 #take a look at your Azure VMs
 Get-AzureRmVM
 
